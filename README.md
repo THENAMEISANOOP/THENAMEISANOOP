@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
-💬 **I am a MERN stack developer passionate about learning new technologies and building practical solutions. I focus on creating efficient, scalable, and user-friendly applications to solve real-world problems. I'm committed to growing my skills, taking on challenges, and delivering high-quality, innovative solutions. My goal is to turn ideas into functional code that improves the user experience and adds value to businesses.**
+I am a MERN stack developer passionate about learning new technologies and building practical solutions. I focus on creating efficient, scalable, and user-friendly applications to solve real-world problems. I'm committed to growing my skills, taking on challenges, and delivering high-quality, innovative solutions. My goal is to turn ideas into functional code that improves the user experience and adds value to businesses.**
 
 ---
 
