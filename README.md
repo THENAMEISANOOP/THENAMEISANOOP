@@ -87,7 +87,7 @@ I love exploring new technologies. Here is an arsenal of tools and frameworks I 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abu-xz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abu-xz&theme=midnight-purple&hide_border=false" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-xz&theme=midnight-purple&hide_border=false" alt="Streak Stats" width="48%" />
 </div>
 <br>
 <div align="center">
@@ -97,7 +97,7 @@ I love exploring new technologies. Here is an arsenal of tools and frameworks I 
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Abu-xz&icon=0&color=0" alt="Profile Views" />
+  <a href="https://github.com/Abu-xz">
+    <img src="https://komarev.com/ghpvc/?username=Abu-xz&label=Profile%20views&color=8511FA&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
