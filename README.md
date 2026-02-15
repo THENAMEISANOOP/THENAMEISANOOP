@@ -34,7 +34,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="300px" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300px" alt="Modern Coding GIF" />
+    </td>
     </td>
   </tr>
 </table>
