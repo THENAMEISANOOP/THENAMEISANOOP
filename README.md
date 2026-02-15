@@ -86,18 +86,17 @@ I love exploring new technologies. Here is an arsenal of tools and frameworks I 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu-xz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-xz&theme=midnight-purple&hide_border=false" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=THENAMEISANOOP&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THENAMEISANOOP&theme=midnight-purple&hide_border=false" alt="Streak Stats" width="48%" />
+</div>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-xz&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THENAMEISANOOP&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Abu-xz">
-    <img src="https://komarev.com/ghpvc/?username=Abu-xz&label=Profile%20views&color=8511FA&style=for-the-badge" alt="Profile Views" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=THENAMEISANOOP&label=Profile%20views&color=8511FA&style=for-the-badge" alt="Profile Views" />  </a>
 </div>
